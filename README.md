@@ -1,7 +1,7 @@
 <p align="center">
      <a href="https://github.com/DeathAruban/Vanilla-Shears">
 		<picture>
-			<source srcset="https://github.com/DeathAruban/Vanilla-Shears/blob/main/img/sidebar.png" media="(prefers-color-scheme: dark)">
+			<source srcset="https://github.com/DeathAruban/Vanilla-Shears/blob/main/img/title.png" media="(prefers-color-scheme: dark)">
 			<img src="https://github.com/DeathAruban/Vanilla-Shears/blob/main/img/title.png" loading="eager" />
 		</picture>
 	</a><br>
