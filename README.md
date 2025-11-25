@@ -20,63 +20,91 @@
 <table>
   <tr>
     <td valign="top" width="40%">
-      <h3>Support for minecraft base worlds</h3>
-      <table align="center">
-        <thead>
-          <tr>
-            <th>World MCBE</th>
-            <th>Supported</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>1.21.124</td>
-            <td>✅</td>
-          </tr>
-          <tr>
-            <td>1.20.x</td>
-            <td>❌</td>
-          </tr>
-          <tr>
-            <td>1.19.60</td>
-            <td>❌</td>
-          </tr>
-          <tr>
-            <td>1.18.x</td>
-            <td>❌</td>
-          </tr>
-          <tr>
-            <td>1.17.x</td>
-            <td>❌</td>
-          </tr>
-          <tr>
-            <td>1.16.x</td>
-            <td>❌</td>
-          </tr>
-          <tr>
-            <td>< 1.15.x</td>
-            <td>❌</td>
-          </tr>
-        </tbody>
-      </table>
+      <h3 align="center">📦 Version Support</h3>
+      <div align="center">
+        <table>
+          <thead>
+            <tr>
+              <th align="center">MCBE Version</th>
+              <th align="center">Status</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="center">1.21.124</td>
+              <td align="center">✅</td>
+            </tr>
+            <tr>
+              <td align="center">1.20.x</td>
+              <td align="center">❌</td>
+            </tr>
+            <tr>
+              <td align="center">1.19.60</td>
+              <td align="center">❌</td>
+            </tr>
+            <tr>
+              <td align="center">1.18.x</td>
+              <td align="center">❌</td>
+            </tr>
+            <tr>
+              <td align="center">1.17.x</td>
+              <td align="center">❌</td>
+            </tr>
+            <tr>
+              <td align="center">1.16.x</td>
+              <td align="center">❌</td>
+            </tr>
+            <tr>
+              <td align="center">< 1.15.x</td>
+              <td align="center">❌</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
     </td>
     <td valign="top" width="60%">
-      <h3>Supported Languages 🌍</h3>
-      <p>This addon includes translations for the following languages:</p>
-      <ul>
-        <li>🇺🇸 English (United States) - <code>en_US</code></li>
-        <li>🇬🇧 English (United Kingdom) - <code>en_GB</code></li>
-        <li>🇩🇪 German (Germany) - <code>de_DE</code></li>
-        <li>🇪🇸 Spanish (Spain) - <code>es_ES</code></li>
-        <li>🇫🇷 French (France) - <code>fr_FR</code></li>
-        <li>🇮🇹 Italian (Italy) - <code>it_IT</code></li>
-        <li>🇯🇵 Japanese (Japan) - <code>ja_JP</code></li>
-        <li>🇵🇹 Portuguese (Portugal) - <code>pt_PT</code></li>
-        <li>🇷🇺 Russian (Russia) - <code>ru_RU</code></li>
-        <li>🇨🇳 Chinese (Simplified) - <code>zh_CN</code></li>
-        <li>🇹🇷 Turkish (Turkey) - <code>tr_TR</code></li>
-      </ul>
-      <p>If you find translation errors or your language is missing, please contact me! If you provide a correct translation, you will be credited for your support. 🤝</p>
+      <h3 align="center">🌍 Supported Languages</h3>
+      <p align="center"><i>Fully localized for a global experience.</i></p>
+      <table align="center" width="100%">
+        <tr>
+          <td>🇺🇸 English (US)</td>
+          <td><code>en_US</code></td>
+          <td>🇬🇧 English (UK)</td>
+          <td><code>en_GB</code></td>
+        </tr>
+        <tr>
+          <td>🇩🇪 German</td>
+          <td><code>de_DE</code></td>
+          <td>🇪🇸 Spanish</td>
+          <td><code>es_ES</code></td>
+        </tr>
+        <tr>
+          <td>🇫🇷 French</td>
+          <td><code>fr_FR</code></td>
+          <td>🇮🇹 Italian</td>
+          <td><code>it_IT</code></td>
+        </tr>
+        <tr>
+          <td>🇯🇵 Japanese</td>
+          <td><code>ja_JP</code></td>
+          <td>🇵🇹 Portuguese</td>
+          <td><code>pt_PT</code></td>
+        </tr>
+        <tr>
+          <td>🇷🇺 Russian</td>
+          <td><code>ru_RU</code></td>
+          <td>🇨🇳 Chinese</td>
+          <td><code>zh_CN</code></td>
+        </tr>
+        <tr>
+          <td>🇹🇷 Turkish</td>
+          <td><code>tr_TR</code></td>
+          <td></td>
+          <td></td>
+        </tr>
+      </table>
+      <br>
+      <p align="center">Found an error or missing language?<br>Contact me to contribute! 🤝</p>
     </td>
   </tr>
 </table>
