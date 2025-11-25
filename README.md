@@ -5,7 +5,7 @@
 			<img src="https://github.com/DeathAruban/Vanilla-Shears/blob/main/img/title.png" loading="eager" />
 		</picture>
 	</a><br>
-	<b>Texture Sidebar+ from maximum scoreboard customization for servers dedicated, realms and vanilla worlds 1.20.71</b>
+	<b>Expands your survival toolkit! Say goodbye to crafting endless iron shears. This addon introduces a full progression system for shears, ranging from Wood to Netherite.</b>
 </p>
 
 <p align="center">
