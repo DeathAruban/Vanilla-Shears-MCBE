@@ -17,33 +17,69 @@
 <img alt="GitHub" src="https://img.shields.io/github/license/DeathAruban/Vanilla-Shears">
 </p>
 
-## Support for minecraft base worlds
-
-| World MCBE | Supported   |
-| ------- | ------------------   | 
-| 1.21.124   |:white_check_mark: | 
-| 1.20.x   |:x:| 
-| 1.19.60   |:x: |    
-| 1.18.x   | :x:  | 
-| 1.17.x   |  :x: |
-| 1.16.x   | :x:  |
-| < 1.15.x   | :x: |
-
-## Supported Languages 🌍
-This addon includes translations for the following languages:
-- English (United States) - `en_US`
-- English (United Kingdom) - `en_GB`
-- German (Germany) - `de_DE`
-- Spanish (Spain) - `es_ES`
-- French (France) - `fr_FR`
-- Italian (Italy) - `it_IT`
-- Japanese (Japan) - `ja_JP`
-- Portuguese (Portugal) - `pt_PT`
-- Russian (Russia) - `ru_RU`
-- Chinese (Simplified, China) - `zh_CN`
-- Turkish (Turkey) - `tr_TR`
-
-If you find translation errors or your language is missing, please contact me! If you provide a correct translation, you will be credited for your support. 🤝
+<table>
+  <tr>
+    <td valign="top" width="40%">
+      <h3>Support for minecraft base worlds</h3>
+      <table align="center">
+        <thead>
+          <tr>
+            <th>World MCBE</th>
+            <th>Supported</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>1.21.124</td>
+            <td>✅</td>
+          </tr>
+          <tr>
+            <td>1.20.x</td>
+            <td>❌</td>
+          </tr>
+          <tr>
+            <td>1.19.60</td>
+            <td>❌</td>
+          </tr>
+          <tr>
+            <td>1.18.x</td>
+            <td>❌</td>
+          </tr>
+          <tr>
+            <td>1.17.x</td>
+            <td>❌</td>
+          </tr>
+          <tr>
+            <td>1.16.x</td>
+            <td>❌</td>
+          </tr>
+          <tr>
+            <td>< 1.15.x</td>
+            <td>❌</td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+    <td valign="top" width="60%">
+      <h3>Supported Languages 🌍</h3>
+      <p>This addon includes translations for the following languages:</p>
+      <ul>
+        <li>🇺🇸 English (United States) - <code>en_US</code></li>
+        <li>🇬🇧 English (United Kingdom) - <code>en_GB</code></li>
+        <li>🇩🇪 German (Germany) - <code>de_DE</code></li>
+        <li>🇪🇸 Spanish (Spain) - <code>es_ES</code></li>
+        <li>🇫🇷 French (France) - <code>fr_FR</code></li>
+        <li>🇮🇹 Italian (Italy) - <code>it_IT</code></li>
+        <li>🇯🇵 Japanese (Japan) - <code>ja_JP</code></li>
+        <li>🇵🇹 Portuguese (Portugal) - <code>pt_PT</code></li>
+        <li>🇷🇺 Russian (Russia) - <code>ru_RU</code></li>
+        <li>🇨🇳 Chinese (Simplified) - <code>zh_CN</code></li>
+        <li>🇹🇷 Turkish (Turkey) - <code>tr_TR</code></li>
+      </ul>
+      <p>If you find translation errors or your language is missing, please contact me! If you provide a correct translation, you will be credited for your support. 🤝</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
