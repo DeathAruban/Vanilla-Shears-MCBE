@@ -23,7 +23,7 @@
 | ------- | ------------------   | 
 | 1.21.124   |:white_check_mark: | 
 | 1.20.x   |:x:| 
-| 1.19.60   |:x: |   
+| 1.19.60   |:x: |    
 | 1.18.x   | :x:  | 
 | 1.17.x   |  :x: |
 | 1.16.x   | :x:  |
@@ -44,3 +44,57 @@ This addon includes translations for the following languages:
 - Turkish (Turkey) - `tr_TR`
 
 If you find translation errors or your language is missing, please contact me! If you provide a correct translation, you will be credited for your support. 🤝
+
+---
+
+## ✂️ Shears Collection & Stats
+
+### 1. Wooden Shears
+<img src="https://github.com/DeathAruban/Vanilla-Shears/blob/main/img/1.png" width="128" />
+
+* **Crafting:** 2 Planks
+* **Durability:** 60
+* **Speed:** Standard
+* **Description:** The perfect starter tool for early game wool gathering.
+
+### 2. Stone Shears
+<img src="https://github.com/DeathAruban/Vanilla-Shears/blob/main/img/2.png" width="128" />
+
+* **Crafting:** 2 Cobblestone
+* **Durability:** 132
+* **Speed:** Standard
+* **Description:** A solid upgrade with double the durability of wood.
+
+### 3. Copper Shears
+<img src="https://github.com/DeathAruban/Vanilla-Shears/blob/main/img/3.png" width="128" />
+
+* **Crafting:** 2 Copper Ingots
+* **Durability:** 191
+* **Speed:** Standard
+* **Description:** A great use for your excess copper, offering decent durability.
+
+### 4. Golden Shears
+<img src="https://github.com/DeathAruban/Vanilla-Shears/blob/main/img/4.png" width="128" />
+
+* **Crafting:** 2 Gold Ingots
+* **Durability:** 33
+* **Speed:** **2x Faster** (Double Speed)
+* **Description:** Extremely fragile but shears leaves and webs instantly.
+
+### 5. Diamond Shears
+<img src="https://github.com/DeathAruban/Vanilla-Shears/blob/main/img/5.png" width="128" />
+
+* **Crafting:** 2 Diamonds
+* **Durability:** 1562
+* **Speed:** Slightly increased
+* **Bonus:** 🍀 **1.5x Drops** for Wool and Honeycomb.
+* **Description:** High durability and efficiency. Interacting with Sheep or Beehives yields more items!
+
+### 6. Netherite Shears
+<img src="https://github.com/DeathAruban/Vanilla-Shears/blob/main/img/6.png" width="128" />
+
+* **Crafting:** Smithing Table (Diamond Shears + Netherite Ingot + Upgrade Template)
+* **Durability:** 2032
+* **Speed:** Increased (Faster than Diamond)
+* **Bonus:** 🍀 **2x Drops** for Wool and Honeycomb.
+* **Description:** The ultimate tool. Maximum durability, speed, and double yield on harvest.
