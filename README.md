@@ -115,6 +115,7 @@
     </td>
   </tr>
 </table>
+
 ## ✂️ Shears Collection & Stats
 
 <table>
